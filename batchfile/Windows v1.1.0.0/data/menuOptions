@@ -1,0 +1,23 @@
+# ==================================
+# Modifying this file will break CDL
+# ==================================
+
+# '$' - suboption
+
+File
+$New
+$Delete
+$Exit
+Home
+$CDS Website
+$CDS GitHub
+ColDog Locker
+$Lock Folder
+$Unlock Folder
+Tools
+$System Info
+$Custom Input
+Help
+$About
+$How to Use
+$Check for Updates
